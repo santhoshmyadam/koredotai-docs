@@ -35,7 +35,7 @@ permalink: platform/topic-guide/en/latest/Conversations Dashboard
   </summary>
 
  
-   Self-Service Conversations are sessions where a user has completed interaction without dropping off or transferring to agent.
+   Self-Service Conversations are sessions where a user has completed interaction without dropping off or transferring to an agent.
 
 
   </details>
